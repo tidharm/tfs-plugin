@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1,
-  "id": "whitesource",
-  "version": "18.1.1",
-  "name": "WhiteSource",
+  "id": "whitesource-test",
+  "version": "0.0.1",
+  "name": "WhiteSource Test",
   "description": "Detect & fix security vulnerabilities, problematic open source licenses and quality issues.",
-  "publisher": "whitesource",
+  "publisher": "TRM",
   "public": true,
   "targets": [
     {

@@ -4,3 +4,4 @@
 *.vsix
 node_modules/
 .idea/
+/CLI-Publishing extensions.txt

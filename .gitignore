@@ -1,7 +1,6 @@
 .idea
+.vs/
+/.vs.rar
 *.vsix
 node_modules/
 .idea/
-/.vs
-/.vs/*
-/.vs.rar
